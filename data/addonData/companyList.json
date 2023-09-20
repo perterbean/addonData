@@ -1,0 +1,1997 @@
+[
+  {
+    "name": "",
+    "code": "",
+    "codeFull": ""
+  },
+  {
+    "name": "Ngân hàng TMCP Ngoại thương Việt Nam",
+    "code": "vcb",
+    "codeFull": "VCB"
+  },
+  {
+    "name": "CTCP Vinhomes",
+    "code": "vhm",
+    "codeFull": "VHM"
+  },
+  {
+    "name": "Ngân hàng TMCP Đầu tư và Phát triển Việt Nam",
+    "code": "bid",
+    "codeFull": "BID"
+  },
+  {
+    "name": "Tập đoàn VINGROUP - CTCP",
+    "code": "vic",
+    "codeFull": "VIC"
+  },
+  {
+    "name": "Tổng Công ty Khí Việt Nam - CTCP",
+    "code": "gas",
+    "codeFull": "GAS"
+  },
+  {
+    "name": "CTCP Tập đoàn Hòa Phát",
+    "code": "hpg",
+    "codeFull": "HPG"
+  },
+  {
+    "name": "CTCP Sữa Việt Nam",
+    "code": "vnm",
+    "codeFull": "VNM"
+  },
+  {
+    "name": "Ngân hàng TMCP Công Thương Việt Nam",
+    "code": "ctg",
+    "codeFull": "CTG"
+  },
+  {
+    "name": "Ngân hàng TMCP Việt Nam Thịnh Vượng",
+    "code": "vpb",
+    "codeFull": "VPB"
+  },
+  {
+    "name": "Ngân hàng TMCP Kỹ thương Việt Nam",
+    "code": "tcb",
+    "codeFull": "TCB"
+  },
+  {
+    "name": "CTCP Tập đoàn Masan",
+    "code": "msn",
+    "codeFull": "MSN"
+  },
+  {
+    "name": "CTCP FPT",
+    "code": "fpt",
+    "codeFull": "FPT"
+  },
+  {
+    "name": "Tổng Công ty cổ phần Bia - Rượu - Nước giải khát Sài Gòn",
+    "code": "sab",
+    "codeFull": "SAB"
+  },
+  {
+    "name": "Tập đoàn Công nghiệp Cao su Việt Nam - CTCP",
+    "code": "gvr",
+    "codeFull": "GVR"
+  },
+  {
+    "name": "Ngân hàng TMCP Quân Đội",
+    "code": "mbb",
+    "codeFull": "MBB"
+  },
+  {
+    "name": "CTCP Đầu tư Thế giới Di động",
+    "code": "mwg",
+    "codeFull": "MWG"
+  },
+  {
+    "name": "Ngân hàng TMCP Á Châu",
+    "code": "acb",
+    "codeFull": "ACB"
+  },
+  {
+    "name": "Tổng Công ty Đầu tư và Phát triển Công nghiệp – CTCP",
+    "code": "bcm",
+    "codeFull": "BCM"
+  },
+  {
+    "name": "CTCP Vincom Retail",
+    "code": "vre",
+    "codeFull": "VRE"
+  },
+  {
+    "name": "Ngân hàng TMCP Sài Gòn Thương Tín",
+    "code": "stb",
+    "codeFull": "STB"
+  },
+  {
+    "name": "Ngân hàng TMCP Đông Nam Á",
+    "code": "ssb",
+    "codeFull": "SSB"
+  },
+  {
+    "name": "CTCP Hàng không Vietjet",
+    "code": "vjc",
+    "codeFull": "VJC"
+  },
+  {
+    "name": "Tập đoàn Xăng Dầu Việt Nam",
+    "code": "plx",
+    "codeFull": "PLX"
+  },
+  {
+    "name": "CTCP Chứng khoán SSI",
+    "code": "ssi",
+    "codeFull": "SSI"
+  },
+  {
+    "name": "Ngân hàng TMCP Quốc tế Việt Nam",
+    "code": "vib",
+    "codeFull": "VIB"
+  },
+  {
+    "name": "Ngân hàng TMCP Phát triển TPHCM",
+    "code": "hdb",
+    "codeFull": "HDB"
+  },
+  {
+    "name": "CTCP Tập đoàn Đầu tư Địa ốc No Va",
+    "code": "nvl",
+    "codeFull": "NVL"
+  },
+  {
+    "name": "Ngân hàng TMCP Sài Gòn - Hà Nội",
+    "code": "shb",
+    "codeFull": "SHB"
+  },
+  {
+    "name": "CTCP Tập đoàn Hóa chất Đức Giang",
+    "code": "dgc",
+    "codeFull": "DGC"
+  },
+  {
+    "name": "Tập đoàn Bảo Việt",
+    "code": "bvh",
+    "codeFull": "BVH"
+  },
+  {
+    "name": "Ngân hàng TMCP Xuất nhập khẩu Việt Nam",
+    "code": "eib",
+    "codeFull": "EIB"
+  },
+  {
+    "name": "Ngân hàng TMCP Tiên Phong",
+    "code": "tpb",
+    "codeFull": "TPB"
+  },
+  {
+    "name": "Tổng Công ty Điện lực Dầu khí Việt Nam - CTCP",
+    "code": "pow",
+    "codeFull": "POW"
+  },
+  {
+    "name": "Ngân hàng Thương mại cổ phần Hàng hải Việt Nam",
+    "code": "msb",
+    "codeFull": "MSB"
+  },
+  {
+    "name": "Tổng Công ty Hàng không Việt Nam - CTCP",
+    "code": "hvn",
+    "codeFull": "HVN"
+  },
+  {
+    "name": "CTCP Chứng khoán VNDirect",
+    "code": "vnd",
+    "codeFull": "VND"
+  },
+  {
+    "name": "Ngân hàng Thương mại cổ phần Phương Đông",
+    "code": "ocb",
+    "codeFull": "OCB"
+  },
+  {
+    "name": "Ngân hàng TMCP Bưu điện Liên Việt",
+    "code": "lpb",
+    "codeFull": "LPB"
+  },
+  {
+    "name": "CTCP Vàng bạc Đá quý Phú Nhuận",
+    "code": "pnj",
+    "codeFull": "PNJ"
+  },
+  {
+    "name": "Tổng Công ty Phát triển Đô thị Kinh Bắc - CTCP",
+    "code": "kbc",
+    "codeFull": "KBC"
+  },
+  {
+    "name": "CTCP Đầu tư và Kinh doanh Nhà Khang Điền",
+    "code": "kdh",
+    "codeFull": "KDH"
+  },
+  {
+    "name": "Tổng Công ty Viglacera - CTCP",
+    "code": "vgc",
+    "codeFull": "VGC"
+  },
+  {
+    "name": "CTCP Cơ Điện Lạnh",
+    "code": "ree",
+    "codeFull": "REE"
+  },
+  {
+    "name": "Tổng Công ty cổ phần Thiết bị Điện Việt Nam",
+    "code": "gex",
+    "codeFull": "GEX"
+  },
+  {
+    "name": "CTCP Chứng khoán Bản Việt",
+    "code": "vci",
+    "codeFull": "VCI"
+  },
+  {
+    "name": "CTCP Gemadept",
+    "code": "gmd",
+    "codeFull": "GMD"
+  },
+  {
+    "name": "Tổng Công ty cổ phần Đầu tư Phát triển Xây dựng",
+    "code": "dig",
+    "codeFull": "DIG"
+  },
+  {
+    "name": "CTCP Phát triển Bất động sản Phát Đạt",
+    "code": "pdr",
+    "codeFull": "PDR"
+  },
+  {
+    "name": "CTCP Phân bón Dầu khí Cà Mau",
+    "code": "dcm",
+    "codeFull": "DCM"
+  },
+  {
+    "name": "CTCP Tập đoàn KIDO",
+    "code": "kdc",
+    "codeFull": "KDC"
+  },
+  {
+    "name": "CTCP Dược Hậu Giang",
+    "code": "dhg",
+    "codeFull": "DHG"
+  },
+  {
+    "name": "CTCP Chứng khoán Thành phố Hồ Chí Minh",
+    "code": "hcm",
+    "codeFull": "HCM"
+  },
+  {
+    "name": "CTCP Đầu tư Nam Long",
+    "code": "nlg",
+    "codeFull": "NLG"
+  },
+  {
+    "name": "Tổng Công ty Phân bón và Hóa chất Dầu khí - CTCP",
+    "code": "dpm",
+    "codeFull": "DPM"
+  },
+  {
+    "name": "Tổng Công ty cổ phần Khoan và Dịch vụ khoan Dầu khí",
+    "code": "pvd",
+    "codeFull": "PVD"
+  },
+  {
+    "name": "CTCP Vĩnh Hoàn",
+    "code": "vhc",
+    "codeFull": "VHC"
+  },
+  {
+    "name": "Tổng Công ty cổ phần Xuất nhập khẩu và Xây dựng Việt Nam",
+    "code": "vcg",
+    "codeFull": "VCG"
+  },
+  {
+    "name": "CTCP Tập đoàn Đất Xanh",
+    "code": "dxg",
+    "codeFull": "DXG"
+  },
+  {
+    "name": "CTCP Tập đoàn Hoa Sen",
+    "code": "hsg",
+    "codeFull": "HSG"
+  },
+  {
+    "name": "CTCP Đầu tư Văn Phú - INVEST",
+    "code": "vpi",
+    "codeFull": "VPI"
+  },
+  {
+    "name": "CTCP Chứng khoán VIX",
+    "code": "vix",
+    "codeFull": "VIX"
+  },
+  {
+    "name": "CTCP Thành Thành Công - Biên Hòa",
+    "code": "sbt",
+    "codeFull": "SBT"
+  },
+  {
+    "name": "CTCP Thủy điện Vĩnh Sơn - Sông Hinh",
+    "code": "vsh",
+    "codeFull": "VSH"
+  },
+  {
+    "name": "CTCP Đầu tư Cầu đường CII",
+    "code": "lgc",
+    "codeFull": "LGC"
+  },
+  {
+    "name": "CTCP Bán lẻ Kỹ thuật số FPT",
+    "code": "frt",
+    "codeFull": "FRT"
+  },
+  {
+    "name": "CTCP Thế Giới Số",
+    "code": "dgw",
+    "codeFull": "DGW"
+  },
+  {
+    "name": "Tổng Công ty cổ phần Bia - Rượu - Nước giải khát Hà Nội",
+    "code": "bhn",
+    "codeFull": "BHN"
+  },
+  {
+    "name": "CTCP Nước - Môi trường Bình Dương",
+    "code": "bwe",
+    "codeFull": "BWE"
+  },
+  {
+    "name": "CTCP Đầu tư Dịch vụ Tài chính Hoàng Huy",
+    "code": "tch",
+    "codeFull": "TCH"
+  },
+  {
+    "name": "CTCP KOSY",
+    "code": "kos",
+    "codeFull": "KOS"
+  },
+  {
+    "name": "CTCP Hoàng Anh Gia Lai",
+    "code": "hag",
+    "codeFull": "HAG"
+  },
+  {
+    "name": "CTCP Điện lực Dầu khí Nhơn Trạch 2",
+    "code": "nt2",
+    "codeFull": "NT2"
+  },
+  {
+    "name": "CTCP Chứng khoán FPT",
+    "code": "fts",
+    "codeFull": "FTS"
+  },
+  {
+    "name": "CTCP Xây lắp Điện I",
+    "code": "pc1",
+    "codeFull": "PC1"
+  },
+  {
+    "name": "Tổng Công ty cổ phần Vận tải Dầu khí",
+    "code": "pvt",
+    "codeFull": "PVT"
+  },
+  {
+    "name": "CTCP Nhựa Bình Minh",
+    "code": "bmp",
+    "codeFull": "BMP"
+  },
+  {
+    "name": "CTCP Tập đoàn Công nghệ CMC",
+    "code": "cmg",
+    "codeFull": "CMG"
+  },
+  {
+    "name": "CTCP Tập đoàn Hà Đô",
+    "code": "hdg",
+    "codeFull": "HDG"
+  },
+  {
+    "name": "CTCP Chứng khoán Ngân hàng Đầu tư và Phát triển Việt Nam",
+    "code": "bsi",
+    "codeFull": "BSI"
+  },
+  {
+    "name": "CTCP Cao su Phước Hòa",
+    "code": "phr",
+    "codeFull": "PHR"
+  },
+  {
+    "name": "CTCP Transimex",
+    "code": "tms",
+    "codeFull": "TMS"
+  },
+  {
+    "name": "CTCP Đầu tư Hạ tầng Kỹ thuật Thành phố Hồ Chí Minh",
+    "code": "cii",
+    "codeFull": "CII"
+  },
+  {
+    "name": "CTCP Đầu tư Phát triển Đô thị và Khu công nghiệp Sông Đà",
+    "code": "sjs",
+    "codeFull": "SJS"
+  },
+  {
+    "name": "CTCP Tập đoàn Dabaco Việt Nam",
+    "code": "dbc",
+    "codeFull": "DBC"
+  },
+  {
+    "name": "CTCP Dịch vụ Hàng hóa Sài Gòn",
+    "code": "scs",
+    "codeFull": "SCS"
+  },
+  {
+    "name": "CTCP Bamboo Capital",
+    "code": "bcg",
+    "codeFull": "BCG"
+  },
+  {
+    "name": "CTCP Đầu tư và Công nghiệp Tân Tạo",
+    "code": "ita",
+    "codeFull": "ITA"
+  },
+  {
+    "name": "CTCP Xi măng Hà Tiên 1",
+    "code": "ht1",
+    "codeFull": "HT1"
+  },
+  {
+    "name": "CTCP Thép Nam Kim",
+    "code": "nkg",
+    "codeFull": "NKG"
+  },
+  {
+    "name": "CTCP Xây dựng Coteccons",
+    "code": "ctd",
+    "codeFull": "CTD"
+  },
+  {
+    "name": "CTCP Vinacafé Biên Hòa",
+    "code": "vcf",
+    "codeFull": "VCF"
+  },
+  {
+    "name": "Công ty Cổ phần Dịch vụ Bất động sản Đất Xanh",
+    "code": "dxs",
+    "codeFull": "DXS"
+  },
+  {
+    "name": "CTCP Bất động sản Thế Kỷ",
+    "code": "cre",
+    "codeFull": "CRE"
+  },
+  {
+    "name": "CTCP Kho vận Miền Nam",
+    "code": "stg",
+    "codeFull": "STG"
+  },
+  {
+    "name": "CTCP Nhiệt điện Phả Lại",
+    "code": "ppc",
+    "codeFull": "PPC"
+  },
+  {
+    "name": "CTCP Dược phẩm Imexpharm",
+    "code": "imp",
+    "codeFull": "IMP"
+  },
+  {
+    "name": "CTCP Điện Gia Lai",
+    "code": "geg",
+    "codeFull": "GEG"
+  },
+  {
+    "name": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai",
+    "code": "hng",
+    "codeFull": "HNG"
+  },
+  {
+    "name": "CTCP Tập đoàn Pan",
+    "code": "pan",
+    "codeFull": "PAN"
+  },
+  {
+    "name": "CTCP Nam Việt",
+    "code": "anv",
+    "codeFull": "ANV"
+  },
+  {
+    "name": "CTCP Chứng khoán Ngân hàng Công thương Việt Nam",
+    "code": "cts",
+    "codeFull": "CTS"
+  },
+  {
+    "name": "CTCP Tập đoàn Thiên Long",
+    "code": "tlg",
+    "codeFull": "TLG"
+  },
+  {
+    "name": "CTCP Nhựa An Phát Xanh",
+    "code": "aaa",
+    "codeFull": "AAA"
+  },
+  {
+    "name": "CTCP Phát triển Hạ tầng Kỹ thuật",
+    "code": "ijc",
+    "codeFull": "IJC"
+  },
+  {
+    "name": "CTCP Dây Cáp điện Việt Nam",
+    "code": "cav",
+    "codeFull": "CAV"
+  },
+  {
+    "name": "CTCP Phát triển Nhà Bà Rịa - Vũng Tàu",
+    "code": "hdc",
+    "codeFull": "HDC"
+  },
+  {
+    "name": "CTCP Dệt may - Đầu tư - Thương mại Thành Công",
+    "code": "tcm",
+    "codeFull": "TCM"
+  },
+  {
+    "name": "CTCP Đầu tư và Phát triển Bất động sản An Gia",
+    "code": "agg",
+    "codeFull": "AGG"
+  },
+  {
+    "name": "CTCP Chứng khoán Tiên Phong",
+    "code": "ors",
+    "codeFull": "ORS"
+  },
+  {
+    "name": "CTCP Nước Thủ Dầu Một",
+    "code": "tdm",
+    "codeFull": "TDM"
+  },
+  {
+    "name": "CTCP Dược - Trang thiết bị Y tế Bình Định",
+    "code": "dbd",
+    "codeFull": "DBD"
+  },
+  {
+    "name": "CTCP Phú Tài",
+    "code": "ptb",
+    "codeFull": "PTB"
+  },
+  {
+    "name": "CTCP Quốc Cường Gia Lai",
+    "code": "qcg",
+    "codeFull": "QCG"
+  },
+  {
+    "name": "CTCP Chứng khoán Rồng Việt",
+    "code": "vds",
+    "codeFull": "VDS"
+  },
+  {
+    "name": "CTCP Thủy điện Thác Mơ",
+    "code": "tmp",
+    "codeFull": "TMP"
+  },
+  {
+    "name": "CTCP Sonadezi Châu Đức",
+    "code": "szc",
+    "codeFull": "SZC"
+  },
+  {
+    "name": "CTCP Chứng khoán Agribank",
+    "code": "agr",
+    "codeFull": "AGR"
+  },
+  {
+    "name": "CTCP Phân phối khí thấp áp Dầu khí Việt Nam",
+    "code": "pgd",
+    "codeFull": "PGD"
+  },
+  {
+    "name": "CTCP Container Việt Nam",
+    "code": "vsc",
+    "codeFull": "VSC"
+  },
+  {
+    "name": "CTCP Tập đoàn Sao Mai",
+    "code": "asm",
+    "codeFull": "ASM"
+  },
+  {
+    "name": "CTCP Traphaco",
+    "code": "tra",
+    "codeFull": "TRA"
+  },
+  {
+    "name": "CTCP Đông Hải Bến Tre",
+    "code": "dhc",
+    "codeFull": "DHC"
+  },
+  {
+    "name": "CTCP Địa ốc Sài Gòn Thương Tín",
+    "code": "scr",
+    "codeFull": "SCR"
+  },
+  {
+    "name": "CTCP Thủy điện Miền Trung",
+    "code": "chp",
+    "codeFull": "CHP"
+  },
+  {
+    "name": "Công ty Cổ phần Bất động sản Khải Hoàn Land",
+    "code": "khg",
+    "codeFull": "KHG"
+  },
+  {
+    "name": "Tổng Công ty cổ phần Bảo hiểm Ngân hàng Đầu tư và Phát triển Việt Nam",
+    "code": "bic",
+    "codeFull": "BIC"
+  },
+  {
+    "name": "CTCP Thực phẩm Sao Ta",
+    "code": "fmc",
+    "codeFull": "FMC"
+  },
+  {
+    "name": "CTCP May Sông Hồng",
+    "code": "msh",
+    "codeFull": "MSH"
+  },
+  {
+    "name": "CTCP Đầu tư và Phát triển Đa Quốc Gia - IDI",
+    "code": "idi",
+    "codeFull": "IDI"
+  },
+  {
+    "name": "Tổng Công ty cổ phần Bảo Minh",
+    "code": "bmi",
+    "codeFull": "BMI"
+  },
+  {
+    "name": "CTCP Cao su Đồng Phú",
+    "code": "dpr",
+    "codeFull": "DPR"
+  },
+  {
+    "name": "Công ty Cổ phần Nông nghiệp BaF Việt Nam",
+    "code": "baf",
+    "codeFull": "BAF"
+  },
+  {
+    "name": "CTCP Thủy điện Miền Nam",
+    "code": "shp",
+    "codeFull": "SHP"
+  },
+  {
+    "name": "Tổng Công ty cổ phần Bảo hiểm Quân Đội",
+    "code": "mig",
+    "codeFull": "MIG"
+  },
+  {
+    "name": "Tổng Công ty cổ phần Dịch vụ Tổng hợp Dầu khí",
+    "code": "pet",
+    "codeFull": "PET"
+  },
+  {
+    "name": "CTCP SAM HOLDINGS",
+    "code": "sam",
+    "codeFull": "SAM"
+  },
+  {
+    "name": "CTCP Đầu tư Khai Khoáng và Quản lý Tài sản FLC",
+    "code": "gab",
+    "codeFull": "GAB"
+  },
+  {
+    "name": "CTCP Tập đoàn Tư vấn Đầu tư và Xây dựng Kiên Giang",
+    "code": "ckg",
+    "codeFull": "CKG"
+  },
+  {
+    "name": "Tổng Công ty cổ phần Bảo hiểm Petrolimex",
+    "code": "pgi",
+    "codeFull": "PGI"
+  },
+  {
+    "name": "CTCP Sợi Thế Kỷ",
+    "code": "stk",
+    "codeFull": "STK"
+  },
+  {
+    "name": "CTCP Tư vấn Xây dựng Điện 2",
+    "code": "tv2",
+    "codeFull": "TV2"
+  },
+  {
+    "name": "CTCP Cao su Đà Nẵng",
+    "code": "drc",
+    "codeFull": "DRC"
+  },
+  {
+    "name": "CTCP Tập đoàn Xây dựng Hòa Bình",
+    "code": "hbc",
+    "codeFull": "HBC"
+  },
+  {
+    "name": "CTCP Đạt Phương",
+    "code": "dpg",
+    "codeFull": "DPG"
+  },
+  {
+    "name": "CTCP FECON",
+    "code": "fcn",
+    "codeFull": "FCN"
+  },
+  {
+    "name": "CTCP Chứng khoán Thiên Việt",
+    "code": "tvs",
+    "codeFull": "TVS"
+  },
+  {
+    "name": "CTCP Dịch vụ Hàng không Taseco",
+    "code": "ast",
+    "codeFull": "AST"
+  },
+  {
+    "name": "CTCP Licogi 16",
+    "code": "lcg",
+    "codeFull": "LCG"
+  },
+  {
+    "name": "CTCP Phát triển Điện lực Việt Nam",
+    "code": "vpd",
+    "codeFull": "VPD"
+  },
+  {
+    "name": "CTCP Vận tải và Xếp dỡ Hải An",
+    "code": "hah",
+    "codeFull": "HAH"
+  },
+  {
+    "name": "CTCP Tập đoàn FLC",
+    "code": "flc",
+    "codeFull": "FLC"
+  },
+  {
+    "name": "CTCP Thủy điện Thác Bà",
+    "code": "tbc",
+    "codeFull": "TBC"
+  },
+  {
+    "name": "CTCP Đầu tư và Phát triển Cảng Đình Vũ",
+    "code": "dvp",
+    "codeFull": "DVP"
+  },
+  {
+    "name": "CTCP City Auto",
+    "code": "ctf",
+    "codeFull": "CTF"
+  },
+  {
+    "name": "CTCP Tập đoàn Đại Dương",
+    "code": "ogc",
+    "codeFull": "OGC"
+  },
+  {
+    "name": "CTCP Dịch vụ Tổng hợp Sài Gòn",
+    "code": "svc",
+    "codeFull": "SVC"
+  },
+  {
+    "name": "CTCP Khoáng sản và Xây dựng Bình Dương",
+    "code": "ksb",
+    "codeFull": "KSB"
+  },
+  {
+    "name": "CTCP Phục vụ Mặt đất Sài Gòn",
+    "code": "sgn",
+    "codeFull": "SGN"
+  },
+  {
+    "name": "CTCP Bóng đèn Phích nước Rạng Đông",
+    "code": "ral",
+    "codeFull": "RAL"
+  },
+  {
+    "name": "CTCP Quốc tế Sơn Hà",
+    "code": "shi",
+    "codeFull": "SHI"
+  },
+  {
+    "name": "CTCP Dịch vụ Hàng hóa Nội Bài",
+    "code": "nct",
+    "codeFull": "NCT"
+  },
+  {
+    "name": "CTCP Xuất nhập khẩu Y Tế Domesco",
+    "code": "dmc",
+    "codeFull": "DMC"
+  },
+  {
+    "name": "CTCP Đầu tư Dịch vụ Hoàng Huy",
+    "code": "hhs",
+    "codeFull": "HHS"
+  },
+  {
+    "name": "CTCP Công nghệ Viễn Thông Sài Gòn",
+    "code": "sgt",
+    "codeFull": "SGT"
+  },
+  {
+    "name": "CTCP Tập đoàn An Phát Holdings",
+    "code": "aph",
+    "codeFull": "APH"
+  },
+  {
+    "name": "CTCP Đầu tư Phát triển Công nghiệp và Vận tải",
+    "code": "tcd",
+    "codeFull": "TCD"
+  },
+  {
+    "name": "CTCP Sản xuất Kinh doanh và Xuất nhập khẩu Bình Thạnh",
+    "code": "gil",
+    "codeFull": "GIL"
+  },
+  {
+    "name": "CTCP Đầu tư Hải Phát",
+    "code": "hpx",
+    "codeFull": "HPX"
+  },
+  {
+    "name": "CTCP Đầu tư Năm Bảy Bảy",
+    "code": "nbb",
+    "codeFull": "NBB"
+  },
+  {
+    "name": "CTCP Cảng Đồng Nai",
+    "code": "pdn",
+    "codeFull": "PDN"
+  },
+  {
+    "name": "CTCP Thuận Đức",
+    "code": "tdp",
+    "codeFull": "TDP"
+  },
+  {
+    "name": "CTCP Tư vấn Thương mại Dịch vụ Địa Ốc Hoàng Quân",
+    "code": "hqc",
+    "codeFull": "HQC"
+  },
+  {
+    "name": "CTCP Tập đoàn Kỹ nghệ gỗ Trường Thành",
+    "code": "ttf",
+    "codeFull": "TTF"
+  },
+  {
+    "name": "CTCP Tập đoàn F.I.T",
+    "code": "fit",
+    "codeFull": "FIT"
+  },
+  {
+    "name": "CTCP Thép Pomina",
+    "code": "pom",
+    "codeFull": "POM"
+  },
+  {
+    "name": "CTCP Đầu tư Thương mại Xuất nhập khẩu Việt Phát",
+    "code": "vpg",
+    "codeFull": "VPG"
+  },
+  {
+    "name": "CTCP Hưng Thịnh Incons",
+    "code": "htn",
+    "codeFull": "HTN"
+  },
+  {
+    "name": "Công ty Cổ phần Tập đoàn ASG",
+    "code": "asg",
+    "codeFull": "ASG"
+  },
+  {
+    "name": "CTCP Hóa chất Cơ bản Miền Nam",
+    "code": "csv",
+    "codeFull": "CSV"
+  },
+  {
+    "name": "CTCP Dược phẩm Cửu Long",
+    "code": "dcl",
+    "codeFull": "DCL"
+  },
+  {
+    "name": "CTCP Vận tải Biển Việt Nam",
+    "code": "vos",
+    "codeFull": "VOS"
+  },
+  {
+    "name": "CTCP Địa ốc Sài Gòn",
+    "code": "sgr",
+    "codeFull": "SGR"
+  },
+  {
+    "name": "CTCP Cao su Hòa Bình",
+    "code": "hrc",
+    "codeFull": "HRC"
+  },
+  {
+    "name": "CTCP Thương mại Đầu tư Dầu khí Nam Sông Hậu",
+    "code": "psh",
+    "codeFull": "PSH"
+  },
+  {
+    "name": "CTCP Bột Giặt Lix",
+    "code": "lix",
+    "codeFull": "LIX"
+  },
+  {
+    "name": "CTCP Chứng khoán APG",
+    "code": "apg",
+    "codeFull": "APG"
+  },
+  {
+    "name": "CTCP Phát triển Đô thị Từ Liêm",
+    "code": "ntl",
+    "codeFull": "NTL"
+  },
+  {
+    "name": "CTCP Khử trùng Việt Nam",
+    "code": "vfg",
+    "codeFull": "VFG"
+  },
+  {
+    "name": "CTCP Tập đoàn EverLand",
+    "code": "evg",
+    "codeFull": "EVG"
+  },
+  {
+    "name": "CTCP Dược phẩm OPC",
+    "code": "opc",
+    "codeFull": "OPC"
+  },
+  {
+    "name": "CTCP Phát triển Khu Công nghiệp Tín Nghĩa",
+    "code": "tip",
+    "codeFull": "TIP"
+  },
+  {
+    "name": "CTCP Long Hậu",
+    "code": "lhg",
+    "codeFull": "LHG"
+  },
+  {
+    "name": "CTCP CMC",
+    "code": "cvt",
+    "codeFull": "CVT"
+  },
+  {
+    "name": "CTCP Đầu tư Phát triển Công nghệ Điện tử - Viễn thông",
+    "code": "elc",
+    "codeFull": "ELC"
+  },
+  {
+    "name": "CTCP Sông Ba",
+    "code": "sba",
+    "codeFull": "SBA"
+  },
+  {
+    "name": "CTCP Đầu tư LDG",
+    "code": "ldg",
+    "codeFull": "LDG"
+  },
+  {
+    "name": "CTCP Công nghiệp Cao su Miền Nam",
+    "code": "csm",
+    "codeFull": "CSM"
+  },
+  {
+    "name": "CTCP Đại Thiên Lộc",
+    "code": "dtl",
+    "codeFull": "DTL"
+  },
+  {
+    "name": "CTCP Hạ tầng Nước Sài Gòn",
+    "code": "sii",
+    "codeFull": "SII"
+  },
+  {
+    "name": "CTCP Pin Ắc quy Miền Nam",
+    "code": "pac",
+    "codeFull": "PAC"
+  },
+  {
+    "name": "CTCP Đầu tư và Xây dựng Bình Dương ACC",
+    "code": "acc",
+    "codeFull": "ACC"
+  },
+  {
+    "name": "CTCP Cảng Cát Lái",
+    "code": "cll",
+    "codeFull": "CLL"
+  },
+  {
+    "name": "CTCP Tập đoàn Giống cây trồng Việt Nam",
+    "code": "nsc",
+    "codeFull": "NSC"
+  },
+  {
+    "name": "CTCP Cao su Thống Nhất",
+    "code": "tnc",
+    "codeFull": "TNC"
+  },
+  {
+    "name": "CTCP Thủy điện Sê San 4A",
+    "code": "s4a",
+    "codeFull": "S4A"
+  },
+  {
+    "name": "Công ty Cổ phần Bệnh viện Quốc tế Thái Nguyên",
+    "code": "tnh",
+    "codeFull": "TNH"
+  },
+  {
+    "name": "Công ty Cổ phần Đầu tư Xây dựng và Phát triển Trường Thành",
+    "code": "tta",
+    "codeFull": "TTA"
+  },
+  {
+    "name": "CTCP Kinh doanh và Phát triển Bình Dương",
+    "code": "tdc",
+    "codeFull": "TDC"
+  },
+  {
+    "name": "CTCP Đầu tư và Kinh doanh Nhà",
+    "code": "itc",
+    "codeFull": "ITC"
+  },
+  {
+    "name": "CTCP Thủy điện Cần Đơn",
+    "code": "sjd",
+    "codeFull": "SJD"
+  },
+  {
+    "name": "CTCP Dịch vụ Ô tô Hàng Xanh",
+    "code": "hax",
+    "codeFull": "HAX"
+  },
+  {
+    "name": "CTCP Địa ốc First Real",
+    "code": "fir",
+    "codeFull": "FIR"
+  },
+  {
+    "name": "CTCP Ánh Dương Việt Nam",
+    "code": "vns",
+    "codeFull": "VNS"
+  },
+  {
+    "name": "CTCP Thiết bị Điện",
+    "code": "thi",
+    "codeFull": "THI"
+  },
+  {
+    "name": "CTCP Bia Sài Gòn - Miền Trung",
+    "code": "smb",
+    "codeFull": "SMB"
+  },
+  {
+    "name": "CTCP Đại lý Giao nhận Vận tải Xếp dỡ Tân Cảng",
+    "code": "tcl",
+    "codeFull": "TCL"
+  },
+  {
+    "name": "CTCP Camimex Group",
+    "code": "cmx",
+    "codeFull": "CMX"
+  },
+  {
+    "name": "CTCP Phân bón Bình Điền",
+    "code": "bfc",
+    "codeFull": "BFC"
+  },
+  {
+    "name": "CTCP Tàu cao tốc Superdong - Kiên Giang",
+    "code": "skg",
+    "codeFull": "SKG"
+  },
+  {
+    "name": "CTCP Nhựa Hà Nội",
+    "code": "nhh",
+    "codeFull": "NHH"
+  },
+  {
+    "name": "CTCP Bibica",
+    "code": "bbc",
+    "codeFull": "BBC"
+  },
+  {
+    "name": "CTCP Vật tư Kỹ thuật nông nghiệp Cần Thơ",
+    "code": "tsc",
+    "codeFull": "TSC"
+  },
+  {
+    "name": "Tổng Công ty cổ phần Xây dựng Điện Việt Nam",
+    "code": "vne",
+    "codeFull": "VNE"
+  },
+  {
+    "name": "CTCP Khoáng sản và Vật liệu Xây dựng Lâm Đồng",
+    "code": "lbm",
+    "codeFull": "LBM"
+  },
+  {
+    "name": "CTCP Mía Đường Lam Sơn",
+    "code": "lss",
+    "codeFull": "LSS"
+  },
+  {
+    "name": "CTCP Đầu tư Phát triển Cường Thuận IDICO",
+    "code": "cti",
+    "codeFull": "CTI"
+  },
+  {
+    "name": "Tổng Công ty Đầu tư Phát triển Nhà và Đô thị Nam Hà Nội",
+    "code": "nha",
+    "codeFull": "NHA"
+  },
+  {
+    "name": "CTCP Vạn Phát Hưng",
+    "code": "vph",
+    "codeFull": "VPH"
+  },
+  {
+    "name": "CTCP Sản xuất Kinh doanh Xuất nhập khẩu Dịch vụ và Đầu tư Tân Bình",
+    "code": "tix",
+    "codeFull": "TIX"
+  },
+  {
+    "name": "CTCP Nhiệt điện Bà Rịa",
+    "code": "btp",
+    "codeFull": "BTP"
+  },
+  {
+    "name": "CTCP Sonadezi Long Thành",
+    "code": "szl",
+    "codeFull": "SZL"
+  },
+  {
+    "name": "Tổng Công ty Gas Petrolimex - CTCP",
+    "code": "pgc",
+    "codeFull": "PGC"
+  },
+  {
+    "name": "CTCP Đầu tư Thương mại SMC",
+    "code": "smc",
+    "codeFull": "SMC"
+  },
+  {
+    "name": "CTCP Cao su Tây Ninh",
+    "code": "trc",
+    "codeFull": "TRC"
+  },
+  {
+    "name": "CTCP Tập đoàn Thép Tiến Lên",
+    "code": "tlh",
+    "codeFull": "TLH"
+  },
+  {
+    "name": "CTCP Cát Lợi",
+    "code": "clc",
+    "codeFull": "CLC"
+  },
+  {
+    "name": "CTCP Đầu tư và Xây dựng Tiền Giang",
+    "code": "thg",
+    "codeFull": "THG"
+  },
+  {
+    "name": "CTCP Phát triển Đô thị Công nghiệp số 2",
+    "code": "d2d",
+    "codeFull": "D2D"
+  },
+  {
+    "name": "CTCP DRH Holdings",
+    "code": "drh",
+    "codeFull": "DRH"
+  },
+  {
+    "name": "CTCP Du lịch Thành Thành Công",
+    "code": "vng",
+    "codeFull": "VNG"
+  },
+  {
+    "name": "CTCP Nafoods Group",
+    "code": "naf",
+    "codeFull": "NAF"
+  },
+  {
+    "name": "CTCP Tập đoàn Đức Long Gia Lai",
+    "code": "dlg",
+    "codeFull": "DLG"
+  },
+  {
+    "name": "CTCP CNG Việt Nam",
+    "code": "cng",
+    "codeFull": "CNG"
+  },
+  {
+    "name": "CTCP Hóa An",
+    "code": "dha",
+    "codeFull": "DHA"
+  },
+  {
+    "name": "CTCP Vận tải Xăng dầu Vipco",
+    "code": "vip",
+    "codeFull": "VIP"
+  },
+  {
+    "name": "CTCP Bất động sản Du lịch Ninh Vân Bay",
+    "code": "nvt",
+    "codeFull": "NVT"
+  },
+  {
+    "name": "CTCP ICD Tân Cảng - Long Bình",
+    "code": "ilb",
+    "codeFull": "ILB"
+  },
+  {
+    "name": "CTCP Đại lý Vận tải SAFI",
+    "code": "sfi",
+    "codeFull": "SFI"
+  },
+  {
+    "name": "CTCP Bao bì Biên Hòa",
+    "code": "svi",
+    "codeFull": "SVI"
+  },
+  {
+    "name": "CTCP Vận tải Xăng dầu Vitaco",
+    "code": "vto",
+    "codeFull": "VTO"
+  },
+  {
+    "name": "CTCP Thương mại Dịch vụ TNS Holdings",
+    "code": "tn1",
+    "codeFull": "TN1"
+  },
+  {
+    "name": "CTCP Xuất nhập khẩu Thủy sản Cửu Long An Giang",
+    "code": "acl",
+    "codeFull": "ACL"
+  },
+  {
+    "name": "CTCP Damsan",
+    "code": "ads",
+    "codeFull": "ADS"
+  },
+  {
+    "name": "CTCP Xây dựng DIC Holdings",
+    "code": "dc4",
+    "codeFull": "DC4"
+  },
+  {
+    "name": "CTCP Đầu tư du lịch và Phát triển Thủy sản",
+    "code": "dat",
+    "codeFull": "DAT"
+  },
+  {
+    "name": "CTCP Chứng khoán Trí Việt",
+    "code": "tvb",
+    "codeFull": "TVB"
+  },
+  {
+    "name": "CTCP Năng lượng và Bất động sản Trường Thành",
+    "code": "teg",
+    "codeFull": "TEG"
+  },
+  {
+    "name": "CTCP Phát triển Nhà Thủ Đức",
+    "code": "tdh",
+    "codeFull": "TDH"
+  },
+  {
+    "name": "CTCP Everpia",
+    "code": "eve",
+    "codeFull": "EVE"
+  },
+  {
+    "name": "CTCP Ô tô TMT",
+    "code": "tmt",
+    "codeFull": "TMT"
+  },
+  {
+    "name": "CTCP Công viên nước Đầm Sen",
+    "code": "dsn",
+    "codeFull": "DSN"
+  },
+  {
+    "name": "CTCP Clever Group",
+    "code": "adg",
+    "codeFull": "ADG"
+  },
+  {
+    "name": "CTCP Vận tải Sản Phẩm Khí Quốc tế",
+    "code": "gsp",
+    "codeFull": "GSP"
+  },
+  {
+    "name": "CTCP Dược phẩm Trung ương VIDIPHA",
+    "code": "vdp",
+    "codeFull": "VDP"
+  },
+  {
+    "name": "CTCP Chế biến Gỗ Đức Thành",
+    "code": "gdt",
+    "codeFull": "GDT"
+  },
+  {
+    "name": "CTCP Dịch vụ Nông nghiệp Bình Thuận",
+    "code": "abs",
+    "codeFull": "ABS"
+  },
+  {
+    "name": "CTCP Thủy điện - Điện Lực 3",
+    "code": "drl",
+    "codeFull": "DRL"
+  },
+  {
+    "name": "CTCP Điện lực Khánh Hòa",
+    "code": "khp",
+    "codeFull": "KHP"
+  },
+  {
+    "name": "CTCP Ngoại thương và Phát triển Đầu tư Thành phố Hồ Chí Minh",
+    "code": "fdc",
+    "codeFull": "FDC"
+  },
+  {
+    "name": "CTCP Tập đoàn Hapaco",
+    "code": "hap",
+    "codeFull": "HAP"
+  },
+  {
+    "name": "CTCP Siêu Thanh",
+    "code": "st8",
+    "codeFull": "ST8"
+  },
+  {
+    "name": "CTCP Bóng đèn Điện Quang",
+    "code": "dqc",
+    "codeFull": "DQC"
+  },
+  {
+    "name": "CTCP MHC",
+    "code": "mhc",
+    "codeFull": "MHC"
+  },
+  {
+    "name": "CTCP Bất động sản và Đầu tư VRC",
+    "code": "vrc",
+    "codeFull": "VRC"
+  },
+  {
+    "name": "CTCP In và Bao bì Mỹ Châu",
+    "code": "mcp",
+    "codeFull": "MCP"
+  },
+  {
+    "name": "CTCP Cao su Sao Vàng",
+    "code": "src",
+    "codeFull": "SRC"
+  },
+  {
+    "name": "CTCP Phân lân Nung chảy Văn Điển",
+    "code": "vaf",
+    "codeFull": "VAF"
+  },
+  {
+    "name": "CTCP Xây dựng Phục Hưng Holdings",
+    "code": "phc",
+    "codeFull": "PHC"
+  },
+  {
+    "name": "CTCP Giống cây trồng Miền Nam",
+    "code": "ssc",
+    "codeFull": "SSC"
+  },
+  {
+    "name": "CTCP Thiết bị Y tế Việt Nhật",
+    "code": "jvc",
+    "codeFull": "JVC"
+  },
+  {
+    "name": "CTCP Đầu tư Hạ tầng và Đô thị Dầu khí",
+    "code": "ptl",
+    "codeFull": "PTL"
+  },
+  {
+    "name": "CTCP Đầu tư Thương mại Bất động sản An Dương Thảo Điền",
+    "code": "har",
+    "codeFull": "HAR"
+  },
+  {
+    "name": "CTCP Đầu Tư và Phát triển Đô Thị Dầu khí Cửu Long",
+    "code": "ccl",
+    "codeFull": "CCL"
+  },
+  {
+    "name": "CTCP Đầu tư và Sản xuất Petro Miền Trung",
+    "code": "pmg",
+    "codeFull": "PMG"
+  },
+  {
+    "name": "CTCP Vật tư Xăng Dầu",
+    "code": "com",
+    "codeFull": "COM"
+  },
+  {
+    "name": "CTCP Đầu tư Tài chính Hoàng Minh",
+    "code": "kpf",
+    "codeFull": "KPF"
+  },
+  {
+    "name": "CTCP Rạng Đông Holding",
+    "code": "rdp",
+    "codeFull": "RDP"
+  },
+  {
+    "name": "CTCP Thương mại Dịch vụ Bến Thành",
+    "code": "btt",
+    "codeFull": "BTT"
+  },
+  {
+    "name": "CTCP An Tiến Industries",
+    "code": "hii",
+    "codeFull": "HII"
+  },
+  {
+    "name": "CTCP Phân Bón Miền Nam",
+    "code": "sfg",
+    "codeFull": "SFG"
+  },
+  {
+    "name": "CTCP Chương Dương",
+    "code": "cdc",
+    "codeFull": "CDC"
+  },
+  {
+    "name": "CTCP Đầu tư Phát triển Hạ tầng IDICO",
+    "code": "hti",
+    "codeFull": "HTI"
+  },
+  {
+    "name": "CTCP Tập đoàn Yeah1",
+    "code": "yeg",
+    "codeFull": "YEG"
+  },
+  {
+    "name": "CTCP Đá Núi Nhỏ",
+    "code": "nnc",
+    "codeFull": "NNC"
+  },
+  {
+    "name": "CTCP Viễn thông - Tin học Bưu điện",
+    "code": "ict",
+    "codeFull": "ICT"
+  },
+  {
+    "name": "CTCP Xây lắp Thừa Thiên Huế",
+    "code": "hub",
+    "codeFull": "HUB"
+  },
+  {
+    "name": "CTCP Đầu tư Phát triển Công nghiệp Thương mại Củ Chi",
+    "code": "cci",
+    "codeFull": "CCI"
+  },
+  {
+    "name": "CTCP Tập đoàn Khách sạn Đông Á",
+    "code": "dah",
+    "codeFull": "DAH"
+  },
+  {
+    "name": "CTCP Xuất nhập khẩu Thủy sản Bến Tre",
+    "code": "abt",
+    "codeFull": "ABT"
+  },
+  {
+    "name": "CTCP Giấy Hoàng Hà Hải Phòng",
+    "code": "hhp",
+    "codeFull": "HHP"
+  },
+  {
+    "name": "CTCP Đầu tư Năng lượng Trường Thịnh",
+    "code": "tte",
+    "codeFull": "TTE"
+  },
+  {
+    "name": "CTCP Cấp nước Chợ Lớn",
+    "code": "clw",
+    "codeFull": "CLW"
+  },
+  {
+    "name": "CTCP Cấp nước Thủ Đức",
+    "code": "tdw",
+    "codeFull": "TDW"
+  },
+  {
+    "name": "Công ty Cổ phần Tiên Sơn Thanh Hóa",
+    "code": "aat",
+    "codeFull": "AAT"
+  },
+  {
+    "name": "CTCP Sản xuất và Công nghệ Nhựa Pha Lê",
+    "code": "plp",
+    "codeFull": "PLP"
+  },
+  {
+    "name": "CTCP Kết cấu Kim loại và Lắp máy Dầu khí",
+    "code": "pxs",
+    "codeFull": "PXS"
+  },
+  {
+    "name": "CTCP Thương mại Xuất nhập khẩu Thiên Nam",
+    "code": "tna",
+    "codeFull": "TNA"
+  },
+  {
+    "name": "CTCP Đầu tư Xây dựng và Phát triển Đô thị Thăng Long",
+    "code": "tld",
+    "codeFull": "TLD"
+  },
+  {
+    "name": "Tổng Công ty Việt Thắng - CTCP",
+    "code": "tvt",
+    "codeFull": "TVT"
+  },
+  {
+    "name": "CTCP Kỹ nghệ Lạnh",
+    "code": "srf",
+    "codeFull": "SRF"
+  },
+  {
+    "name": "CTCP Đầu tư Sao Thái Dương",
+    "code": "sjf",
+    "codeFull": "SJF"
+  },
+  {
+    "name": "Công ty Cổ phần Đầu tư BKG Việt Nam",
+    "code": "bkg",
+    "codeFull": "BKG"
+  },
+  {
+    "name": "CTCP Tài Nguyên",
+    "code": "tnt",
+    "codeFull": "TNT"
+  },
+  {
+    "name": "CTCP Y Dược phẩm Vimedimex",
+    "code": "vmd",
+    "codeFull": "VMD"
+  },
+  {
+    "name": "CTCP Cáp treo Núi Bà Tây Ninh",
+    "code": "tct",
+    "codeFull": "TCT"
+  },
+  {
+    "name": "CTCP Hợp tác Kinh tế và Xuất nhập khẩu Savimex",
+    "code": "sav",
+    "codeFull": "SAV"
+  },
+  {
+    "name": "CTCP Garmex Sài Gòn",
+    "code": "gmc",
+    "codeFull": "GMC"
+  },
+  {
+    "name": "CTCP Kim khí Thành phố Hồ Chí Minh - Vnsteel",
+    "code": "hmc",
+    "codeFull": "HMC"
+  },
+  {
+    "name": "CTCP Xây dựng Số 5",
+    "code": "sc5",
+    "codeFull": "SC5"
+  },
+  {
+    "name": "CTCP Đầu tư Phát triển Thực phẩm Hồng Hà",
+    "code": "hsl",
+    "codeFull": "HSL"
+  },
+  {
+    "name": "CTCP Đầu tư và Phát triển Đô thị Long Giang",
+    "code": "lgl",
+    "codeFull": "LGL"
+  },
+  {
+    "name": "CTCP Halcom Việt Nam",
+    "code": "hid",
+    "codeFull": "HID"
+  },
+  {
+    "name": "CTCP CIC39",
+    "code": "c32",
+    "codeFull": "C32"
+  },
+  {
+    "name": "CTCP Siam Brothers Việt Nam",
+    "code": "sbv",
+    "codeFull": "SBV"
+  },
+  {
+    "name": "CTCP Tập đoàn Nhựa Đông Á",
+    "code": "dag",
+    "codeFull": "DAG"
+  },
+  {
+    "name": "CTCP Nông dược H.A.I",
+    "code": "hai",
+    "codeFull": "HAI"
+  },
+  {
+    "name": "CTCP Khoáng sản FECON",
+    "code": "fcm",
+    "codeFull": "FCM"
+  },
+  {
+    "name": "CTCP Đầu tư Sản xuất và Thương mại HCD",
+    "code": "hcd",
+    "codeFull": "HCD"
+  },
+  {
+    "name": "CTCP Thương mại và Khai thác Khoáng sản Dương Hiếu",
+    "code": "dhm",
+    "codeFull": "DHM"
+  },
+  {
+    "name": "CTCP Đầu tư Phát triển Nhà và Đô thị IDICO",
+    "code": "uic",
+    "codeFull": "UIC"
+  },
+  {
+    "name": "CTCP Đầu tư Phát triển Thương mại Viễn Đông",
+    "code": "vid",
+    "codeFull": "VID"
+  },
+  {
+    "name": "CTCP Chiếu xạ An Phú",
+    "code": "apc",
+    "codeFull": "APC"
+  },
+  {
+    "name": "CTCP Công nghệ Tiên Phong",
+    "code": "itd",
+    "codeFull": "ITD"
+  },
+  {
+    "name": "CTCP Thuốc sát trùng Việt Nam (VIPESCO)",
+    "code": "vps",
+    "codeFull": "VPS"
+  },
+  {
+    "name": "CTCP Vận tải Xăng dầu đường Thủy Petrolimex",
+    "code": "pjt",
+    "codeFull": "PJT"
+  },
+  {
+    "name": "CTCP Tập đoàn Dầu khí An Pha",
+    "code": "asp",
+    "codeFull": "ASP"
+  },
+  {
+    "name": "CTCP Đầu tư và Công nghệ HVC",
+    "code": "hvh",
+    "codeFull": "HVH"
+  },
+  {
+    "name": "CTCP COMA 18",
+    "code": "cig",
+    "codeFull": "CIG"
+  },
+  {
+    "name": "CTCP Lilama 10",
+    "code": "l10",
+    "codeFull": "L10"
+  },
+  {
+    "name": "CTCP Đầu tư và Xây dựng Bưu điện",
+    "code": "ptc",
+    "codeFull": "PTC"
+  },
+  {
+    "name": "CTCP Xây dựng và Giao thông Bình Dương",
+    "code": "bce",
+    "codeFull": "BCE"
+  },
+  {
+    "name": "CTCP Đầu tư và Xây dựng Cấp thoát nước",
+    "code": "vsi",
+    "codeFull": "VSI"
+  },
+  {
+    "name": "CTCP Nhiên liệu Sài Gòn",
+    "code": "sfc",
+    "codeFull": "SFC"
+  },
+  {
+    "name": "CTCP Bất động sản Điện lực Miền Trung",
+    "code": "lec",
+    "codeFull": "LEC"
+  },
+  {
+    "name": "CTCP Mirae",
+    "code": "kmr",
+    "codeFull": "KMR"
+  },
+  {
+    "name": "CTCP Đầu tư Apax Holdings",
+    "code": "ibc",
+    "codeFull": "IBC"
+  },
+  {
+    "name": "CTCP Dược phẩm Bến Tre",
+    "code": "dbt",
+    "codeFull": "DBT"
+  },
+  {
+    "name": "CTCP Xây dựng 47",
+    "code": "c47",
+    "codeFull": "C47"
+  },
+  {
+    "name": "CTCP Chế biến hàng Xuất khẩu Long An",
+    "code": "laf",
+    "codeFull": "LAF"
+  },
+  {
+    "name": "CTCP Công nghệ Sài Gòn Viễn Đông",
+    "code": "svt",
+    "codeFull": "SVT"
+  },
+  {
+    "name": "CTCP SPM",
+    "code": "spm",
+    "codeFull": "SPM"
+  },
+  {
+    "name": "CTCP Xuất nhập khẩu Quảng Bình",
+    "code": "qbs",
+    "codeFull": "QBS"
+  },
+  {
+    "name": "CTCP Create Capital Việt Nam",
+    "code": "crc",
+    "codeFull": "CRC"
+  },
+  {
+    "name": "CTCP Kỹ thuật và Ôtô Trường Long",
+    "code": "htl",
+    "codeFull": "HTL"
+  },
+  {
+    "name": "CTCP Cơ điện Thủ Đức",
+    "code": "emc",
+    "codeFull": "EMC"
+  },
+  {
+    "name": "CTCP Tập đoàn Tiến Bộ",
+    "code": "ttb",
+    "codeFull": "TTB"
+  },
+  {
+    "name": "CTCP Khoáng sản Bình Định",
+    "code": "bmc",
+    "codeFull": "BMC"
+  },
+  {
+    "name": "CTCP Đầu tư và Khoáng sản FLC AMD",
+    "code": "amd",
+    "codeFull": "AMD"
+  },
+  {
+    "name": "CTCP Thương nghiệp Cà Mau",
+    "code": "cmv",
+    "codeFull": "CMV"
+  },
+  {
+    "name": "CTCP Quốc tế Hoàng Gia",
+    "code": "ric",
+    "codeFull": "RIC"
+  },
+  {
+    "name": "CTCP Thiết bị Phụ tùng Sài Gòn",
+    "code": "sma",
+    "codeFull": "SMA"
+  },
+  {
+    "name": "CTCP Sơn Hà Sài Gòn",
+    "code": "sha",
+    "codeFull": "SHA"
+  },
+  {
+    "name": "CTCP Tập đoàn Thành Nam",
+    "code": "tni",
+    "codeFull": "TNI"
+  },
+  {
+    "name": "CTCP Vận tải Đa phương thức Duyên Hải",
+    "code": "tco",
+    "codeFull": "TCO"
+  },
+  {
+    "name": "CTCP Xuất nhập khẩu An Giang",
+    "code": "agm",
+    "codeFull": "AGM"
+  },
+  {
+    "name": "CTCP Cơ điện và Xây dựng Việt Nam",
+    "code": "mcg",
+    "codeFull": "MCG"
+  },
+  {
+    "name": "CTCP Chế biến gỗ Thuận An",
+    "code": "gta",
+    "codeFull": "GTA"
+  },
+  {
+    "name": "CTCP Miền Đông",
+    "code": "mdg",
+    "codeFull": "MDG"
+  },
+  {
+    "name": "CTCP Nước giải khát Chương Dương",
+    "code": "scd",
+    "codeFull": "SCD"
+  },
+  {
+    "name": "CTCP Đệ Tam",
+    "code": "dta",
+    "codeFull": "DTA"
+  },
+  {
+    "name": "CTCP Logistics Vinalink",
+    "code": "vnl",
+    "codeFull": "VNL"
+  },
+  {
+    "name": "CTCP Thép VICASA - VNSTEEL",
+    "code": "vca",
+    "codeFull": "VCA"
+  },
+  {
+    "name": "CTCP Xây dựng và Phát triển Đô thị Tỉnh Bà Rịa Vũng Tàu",
+    "code": "udc",
+    "codeFull": "UDC"
+  },
+  {
+    "name": "CTCP Cao su Bến Thành",
+    "code": "brc",
+    "codeFull": "BRC"
+  },
+  {
+    "name": "CTCP Xi măng VICEM Hải Vân",
+    "code": "hvx",
+    "codeFull": "HVX"
+  },
+  {
+    "name": "CTCP Lilama 18",
+    "code": "lm8",
+    "codeFull": "LM8"
+  },
+  {
+    "name": "CTCP Du lịch Dịch vụ Hội An",
+    "code": "hot",
+    "codeFull": "HOT"
+  },
+  {
+    "name": "CTCP Vận tải Hà Tiên",
+    "code": "htv",
+    "codeFull": "HTV"
+  },
+  {
+    "name": "CTCP Nam Việt",
+    "code": "nav",
+    "codeFull": "NAV"
+  },
+  {
+    "name": "CTCP Kỹ nghệ Đô Thành",
+    "code": "dtt",
+    "codeFull": "DTT"
+  },
+  {
+    "name": "CTCP Xây dựng Công nghiệp và Dân dụng Dầu khí",
+    "code": "pxi",
+    "codeFull": "PXI"
+  },
+  {
+    "name": "CTCP Viettronics Tân Bình",
+    "code": "vtb",
+    "codeFull": "VTB"
+  },
+  {
+    "name": "CTCP Xuất nhập khẩu Petrolimex",
+    "code": "pit",
+    "codeFull": "PIT"
+  },
+  {
+    "name": "CTCP Nhựa Tân Đại Hưng",
+    "code": "tpc",
+    "codeFull": "TPC"
+  },
+  {
+    "name": "CTCP Thủy sản MeKong",
+    "code": "aam",
+    "codeFull": "AAM"
+  },
+  {
+    "name": "CTCP Khoáng sản Công nghiệp Yên Bái",
+    "code": "ybm",
+    "codeFull": "YBM"
+  },
+  {
+    "name": "CTCP Văn hóa Phương Nam",
+    "code": "pnc",
+    "codeFull": "PNC"
+  },
+  {
+    "name": "Công ty Cổ phần Đầu tư và Thương mại Vũ Đăng",
+    "code": "svd",
+    "codeFull": "SVD"
+  },
+  {
+    "name": "Công ty Cổ phần Louis Capital",
+    "code": "tgg",
+    "codeFull": "TGG"
+  },
+  {
+    "name": "CTCP Khai thác và Chế biến khoáng sản Lào Cai",
+    "code": "lcm",
+    "codeFull": "LCM"
+  },
+  {
+    "name": "CTCP Đầu tư và Xây dựng HUD1",
+    "code": "hu1",
+    "codeFull": "HU1"
+  },
+  {
+    "name": "CTCP Dầu khí Thái Dương",
+    "code": "tdg",
+    "codeFull": "TDG"
+  },
+  {
+    "name": "CTCP Hacisco",
+    "code": "has",
+    "codeFull": "HAS"
+  },
+  {
+    "name": "CTCP Dây và Cáp Điện Taya Việt Nam",
+    "code": "tya",
+    "codeFull": "TYA"
+  },
+  {
+    "name": "CTCP Đầu tư và Xây dựng HUD3",
+    "code": "hu3",
+    "codeFull": "HU3"
+  },
+  {
+    "name": "CTCP Đầu tư và Phát triển Đức Quân",
+    "code": "ftm",
+    "codeFull": "FTM"
+  },
+  {
+    "name": "CTCP VICEM Vật liệu Xây dựng Đà Nẵng",
+    "code": "dxv",
+    "codeFull": "DXV"
+  },
+  {
+    "name": "CTCP Công nghiệp Gốm sứ Taicera",
+    "code": "tcr",
+    "codeFull": "TCR"
+  }
+]
